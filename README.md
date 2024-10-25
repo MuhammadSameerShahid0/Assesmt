@@ -1,17 +1,6 @@
 # SimpleTwitter
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-
----
-
-## About
+## Overview
 **SimpleTwitter** is a microblogging web application that enables users to share and view comments in a Twitter-like feed. Each post comments is limited to 140 characters, and users must be registered and logged in to interact with posts and comments. SimpleTwitter showcases a full-stack development approach with server-side and client-side technologies, database management, and essential validations to ensure data integrity and quality.
 
 ## Features
